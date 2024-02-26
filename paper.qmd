@@ -1,0 +1,19 @@
+---
+title: "Effect of Errors in Analysis"
+author: "Qi Er (Emma) Teng"
+thanks: "Code is available at https://github.com/dwz92/Effect-of-Errors-in-Analysis"
+date: today
+date-format: long
+format: html
+toc: true
+---
+```{r}
+## WORKPLACE SETUP ##
+
+#| include: false
+#| warning: false
+#| message: false
+#| echo: false
+
+```
+
